@@ -8,7 +8,6 @@ Skills used:
 Setup:
 
 You'll need to download the proper node modules
-- Run npm init 
 - Run npm install express
 - Serve the page on localhost (I use nodemon)
 
