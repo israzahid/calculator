@@ -8,8 +8,8 @@ Skills used:
 Setup:
 
 You'll need to download the proper node modules
-- Run npm install express
-- Serve the page on localhost (I use nodemon)
+- Run `npm i`
+- Serve the page on localhost
 
 What it does:
 - Adds two numbers while at the home directory 
